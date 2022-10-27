@@ -1,0 +1,22 @@
+.blog{
+    margin: 50px;
+}
+h1{
+    background-color: aqua;
+    color: rgb(19, 15, 14);
+    padding: 5px;
+    border-radius: 10px;
+}
+.blog h2{
+    background-color: aqua;
+    color: rgb(19, 15, 14);
+    padding: 5px;
+    border-radius: 10px;
+}
+.question{
+    border: 1px solid black;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
