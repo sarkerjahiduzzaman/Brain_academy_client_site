@@ -28,7 +28,8 @@ const Header = () => {
         <div>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" >
       <Container>
-        <Navbar.Brand href="#home">Brain Academy</Navbar.Brand>
+      <Navbar.Brand href="/"> <Image style={{height:'40px'}} roundedCircle src=' https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRQcj2cx3Y7Bfct3rIX25g-3k5YqblRIM4ciq0NY&s'></Image> </Navbar.Brand>
+        <Navbar.Brand href="/">Brain Academy</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav" >
           
